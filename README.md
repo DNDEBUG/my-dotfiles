@@ -13,6 +13,13 @@
 [Blender](www.blender.org) **Wayland ❌**  
 [FFMPEG](https://ffmpeg.org/)  
 
+## Media Player
+### Music
+[MOC](http://moc.daper.net/)  
+[MPV](https://mpv.io/)
+### Video
+[MPV](https://mpv.io/)
+
 ## Web
 ### Torrenting
 [Transmission](https://transmissionbt.com/)  
