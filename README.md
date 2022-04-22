@@ -3,6 +3,7 @@
 
 ## Programs i use
 
+
 ## Editing
 ### Text Editing
 [vis](https://github.com/martanne/vis)  
@@ -19,18 +20,22 @@
 ### Web Browser
 [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)  
 
-### File Manager
-[CliFM](https://github.com/leo-arch/clifm)
-
-## File Compression
+## Misc and Utils
+### Terminal  
+[foot](https://codeberg.org/dnkl/foot)  
+### File Manager  
+[CliFM](https://github.com/leo-arch/clifm)  
+### Window Manager  
+[SwayWM](https://swaywm.org/)  
+## File Compression  
 [7zip](https://www.7-zip.org/) **7z**/**RAR**/**ZIP** and much more  
 [ZPAQ](http://mattmahoney.net/dc/zpaq.html) **ZPAQ**  
 [PAQ8PX](https://github.com/hxim/paq8px) **PAQ8**
 
 ## Gaming
-[Mednafen](https://mednafen.github.io/) PSX/GBA/NES/SNES and much more  
-[Dolphin-emu](https://dolphin-emu.org) GC/WII  
-[PPSSPP](https://www.ppsspp.org/) PSP
+[Mednafen](https://mednafen.github.io/) PSX/GBA/NES/SNES and much more **Wayland ✔**  
+[Dolphin-emu](https://dolphin-emu.org) GC/WII **Wayland ❌**  
+[PPSSPP](https://www.ppsspp.org/) PSP **Wayland ✔**
 
 # Sway Stuff
 
