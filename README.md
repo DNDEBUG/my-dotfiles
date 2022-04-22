@@ -36,16 +36,17 @@
 [Dolphin-emu](https://dolphin-emu.org) GC/WII **Wayland ❌**  
 [PPSSPP](https://www.ppsspp.org/) PSP **Wayland ✔**
 
-# Sway Stuff
+## Sway Stuff
 
-## [My Config](https://github.com/DNDEBUG/my-dotfiles/blob/main/sway/config)
+### [My Config](https://github.com/DNDEBUG/my-dotfiles/blob/main/sway/config)
 
-## Screenshot
+### Screenshot
 [Grim](https://sr.ht/~emersion/grim/) with my [script](https://github.com/DNDEBUG/my-dotfiles/blob/main/screencap)  
   **Dependencies**  
   [slurp](https://github.com/emersion/slurp) for region selection  
   [jq](https://stedolan.github.io/jq/) for sways json thing  
-
-## Screen-recording
+### Screen-recording
 [wf-recorder](https://github.com/ammen99/wf-recorder)
+### Bar
+[Waybar](https://github.com/Alexays/Waybar)
 
