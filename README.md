@@ -62,3 +62,6 @@
 [Materia Dark Compact](https://github.com/nana-4/materia-theme)
 ### Icons
 [Breeze](https://github.com/KDE/breeze-icons)
+### Fonts
+[Noto](https://fonts.google.com/noto)  
+[Unifont](http://unifoundry.com/unifont/index.html)
