@@ -1,0 +1,11 @@
+{
+	"layer": "top", // Waybar at top layer
+	"position": "bottom", // Waybar position (top|bottom|left|right)
+	"height": 24, // Waybar height (to be removed for auto height)
+	"width": 768, // Waybar width
+	"spacing": 0, // Gaps between modules (4px)
+	"modules-left": ["sway/workspaces", "sway/mode", "custom/media", "sway/window"],
+	"modules-right": ["clock"],
+	"clock": {"interval": 1, "format": "{:[%A - %d] - [%B - %m] - [%Y] - [%r]}", "max-length": 52 },
+	"sway/window": {"format": " {}", "max-length": 150}
+}
