@@ -16,9 +16,9 @@
 ## Media Player
 ### Music
 [MOC](http://moc.daper.net/)  
-[MPV](https://mpv.io/)
+[MPV](https://mpv.io/) **Wayland ✔**
 ### Video
-[MPV](https://mpv.io/)
+[MPV](https://mpv.io/) **Wayland ✔**
 
 ## Web
 ### Torrenting
