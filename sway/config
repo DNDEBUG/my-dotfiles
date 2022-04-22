@@ -11,7 +11,7 @@ bindsym $mod+Space layout toggle all
 
 # Programs
 set $term foot
-set $menu cat .local/bin/dmenu_list.txt | bemenu --fn=unifont -H 24 -W 0.15 -n -b -l 5 -- |  ${SHELL:-"/bin/sh"} &
+set $menu cat .local/bin/menu_list.txt | bemenu --fn=unifont -H 24 -W 0.15 -n -b -l 5 -- |  ${SHELL:-"/bin/sh"} &
 set $screenshot screencap
 
 # Wallpaper
