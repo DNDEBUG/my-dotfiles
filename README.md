@@ -23,8 +23,8 @@
 [CliFM](https://github.com/leo-arch/clifm)
 
 ## File Compression
-[7zip](https://www.7-zip.org/) **7z**/**RAR**/**ZIP** and much more
-[ZPAQ](http://mattmahoney.net/dc/zpaq.html) **ZPAQ**
+[7zip](https://www.7-zip.org/) **7z**/**RAR**/**ZIP** and much more  
+[ZPAQ](http://mattmahoney.net/dc/zpaq.html) **ZPAQ**  
 [PAQ8PX](https://github.com/hxim/paq8px) **PAQ8**
 
 ## Gaming
