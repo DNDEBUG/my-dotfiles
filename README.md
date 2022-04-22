@@ -3,26 +3,25 @@
 
 ## Programs i use
 
-
 ## Editing
 ### Text Editing
 [vis](https://github.com/martanne/vis)  
 ### Image Editing  
-[GIMP](www.gimp.org)  
+[GIMP](www.gimp.org) **Wayland ❌**  
 [ImageMagick](https://imagemagick.org/)  
 ### Video Editing  
-[Blender](www.blender.org)  
+[Blender](www.blender.org) **Wayland ❌**  
 [FFMPEG](https://ffmpeg.org/)  
 
 ## Web
 ### Torrenting
 [Transmission](https://transmissionbt.com/)  
 ### Web Browser
-[ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)  
+[ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) **Wayland ✔**  
 
 ## Misc and Utils
 ### Terminal  
-[foot](https://codeberg.org/dnkl/foot)  
+[foot](https://codeberg.org/dnkl/foot) **Wayland ✔**  
 ### File Manager  
 [CliFM](https://github.com/leo-arch/clifm)  
 ### Window Manager  
