@@ -33,8 +33,7 @@
 # [My Config](https://github.com/DNDEBUG/my-dotfiles/blob/main/sway/config)
 
 ## Screenshot
-[Grim](https://sr.ht/~emersion/grim/)  
-  **My Script** [Screencap](https://github.com/DNDEBUG/my-dotfiles/blob/main/screencap)  
+[Grim](https://sr.ht/~emersion/grim/) with my [script](https://github.com/DNDEBUG/my-dotfiles/blob/main/screencap)  
   **Dependencies**  
   [slurp](https://github.com/emersion/slurp) for region selection  
   [jq](https://stedolan.github.io/jq/) for sways json thing  
