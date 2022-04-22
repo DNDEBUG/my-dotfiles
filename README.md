@@ -3,25 +3,24 @@
 
 # Programs i use
 
+## Editing
+## Text Editing
+[vis](https://github.com/martanne/vis)  
+## Image Editing  
+[GIMP](www.gimp.org)  
+[ImageMagick](https://imagemagick.org/)  
+## Video Editing  
+[Blender](www.blender.org)  
+[FFMPEG](https://ffmpeg.org/)  
+
+## Web
+## Torrenting
+[Transmission](https://transmissionbt.com/)  
+## Web Browser
+[ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)  
+
 ## File Manager
 [CliFM](https://github.com/leo-arch/clifm)
-
-## Torrenting
-[Transmission](https://transmissionbt.com/)
-
-## Web Browser
-[ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)
-
-## Text Editing
-[vis](https://github.com/martanne/vis)
-
-## Image Editing
-[GIMP](www.gimp.org)
-[ImageMagick](https://imagemagick.org/)
-
-## Video Editing
-[Blender](www.blender.org)
-[FFMPEG](https://ffmpeg.org/)
 
 ## Gaming
 [Mednafen](https://mednafen.github.io/) PSX/GBA/NES/SNES and much more  
