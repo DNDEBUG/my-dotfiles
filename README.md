@@ -56,6 +56,8 @@
 [wf-recorder](https://github.com/ammen99/wf-recorder)
 ### Bar
 [Waybar](https://github.com/Alexays/Waybar)
+### Menu
+[Bemenu](https://github.com/Cloudef/bemenu)
 
 ## Appearance
 ### GTK Theme
