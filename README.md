@@ -24,8 +24,8 @@
 [FFMPEG](https://ffmpeg.org/)
 
 ## Gaming
-[Mednafen](https://mednafen.github.io/) PSX/GBA/NES/SNES and much more
-[Dolphin-emu](https://dolphin-emu.org) GC/WII
+[Mednafen](https://mednafen.github.io/) PSX/GBA/NES/SNES and much more  
+[Dolphin-emu](https://dolphin-emu.org) GC/WII  
 [PPSSPP](https://www.ppsspp.org/) PSP
 
 # Sway Stuff
@@ -33,11 +33,11 @@
 # [My Config](https://github.com/DNDEBUG/my-dotfiles/blob/main/sway/config)
 
 ## Screenshot
-[Grim](https://sr.ht/~emersion/grim/)
-  **My Script** [Screencap](https://github.com/DNDEBUG/my-dotfiles/blob/main/screencap)
-  **Dependencies**
-  [slurp](https://github.com/emersion/slurp) for region selection
-  [jq](https://stedolan.github.io/jq/) for sways json thing
+[Grim](https://sr.ht/~emersion/grim/)  
+  **My Script** [Screencap](https://github.com/DNDEBUG/my-dotfiles/blob/main/screencap)  
+  **Dependencies**  
+  [slurp](https://github.com/emersion/slurp) for region selection  
+  [jq](https://stedolan.github.io/jq/) for sways json thing  
 
 ## Screen-recording
 [wf-recorder](https://github.com/ammen99/wf-recorder)
