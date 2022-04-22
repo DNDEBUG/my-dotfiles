@@ -30,7 +30,7 @@
 
 # Sway Stuff
 
-# [My Config](https://github.com/DNDEBUG/my-dotfiles/blob/main/sway/config)
+## [My Config](https://github.com/DNDEBUG/my-dotfiles/blob/main/sway/config)
 
 ## Screenshot
 [Grim](https://sr.ht/~emersion/grim/) with my [script](https://github.com/DNDEBUG/my-dotfiles/blob/main/screencap)  
