@@ -57,3 +57,8 @@
 ### Bar
 [Waybar](https://github.com/Alexays/Waybar)
 
+## Appearance
+### GTK Theme
+[Materia Dark Compact](https://github.com/nana-4/materia-theme)
+### Icons
+[Breeze](https://github.com/KDE/breeze-icons)
