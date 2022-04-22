@@ -59,7 +59,7 @@
 ### Menu
 [Bemenu](https://github.com/Cloudef/bemenu)
 
-## Appearance
+## Appearance  
 ### GTK Theme
 [Materia Dark Compact](https://github.com/nana-4/materia-theme)
 ### Icons
