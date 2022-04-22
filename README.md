@@ -1,28 +1,33 @@
-# System
-## [Artix](https://artixlinux.org/)
+## System
+### [Artix](https://artixlinux.org/)
 
-# Programs i use
+## Programs i use
 
-# Editing
-## Text Editing
+## Editing
+### Text Editing
 [vis](https://github.com/martanne/vis)  
-## Image Editing  
+### Image Editing  
 [GIMP](www.gimp.org)  
 [ImageMagick](https://imagemagick.org/)  
-## Video Editing  
+### Video Editing  
 [Blender](www.blender.org)  
 [FFMPEG](https://ffmpeg.org/)  
 
-# Web
-## Torrenting
+## Web
+### Torrenting
 [Transmission](https://transmissionbt.com/)  
-## Web Browser
+### Web Browser
 [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)  
 
-## File Manager
+### File Manager
 [CliFM](https://github.com/leo-arch/clifm)
 
-# Gaming
+## File Compression
+[7zip](https://www.7-zip.org/) **7z**/**RAR**/**ZIP** and much more
+[ZPAQ](http://mattmahoney.net/dc/zpaq.html) **ZPAQ**
+[PAQ8PX](https://github.com/hxim/paq8px) **PAQ8**
+
+## Gaming
 [Mednafen](https://mednafen.github.io/) PSX/GBA/NES/SNES and much more  
 [Dolphin-emu](https://dolphin-emu.org) GC/WII  
 [PPSSPP](https://www.ppsspp.org/) PSP
