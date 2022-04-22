@@ -3,7 +3,7 @@
 
 # Programs i use
 
-## Editing
+# Editing
 ## Text Editing
 [vis](https://github.com/martanne/vis)  
 ## Image Editing  
@@ -13,7 +13,7 @@
 [Blender](www.blender.org)  
 [FFMPEG](https://ffmpeg.org/)  
 
-## Web
+# Web
 ## Torrenting
 [Transmission](https://transmissionbt.com/)  
 ## Web Browser
@@ -22,7 +22,7 @@
 ## File Manager
 [CliFM](https://github.com/leo-arch/clifm)
 
-## Gaming
+# Gaming
 [Mednafen](https://mednafen.github.io/) PSX/GBA/NES/SNES and much more  
 [Dolphin-emu](https://dolphin-emu.org) GC/WII  
 [PPSSPP](https://www.ppsspp.org/) PSP
