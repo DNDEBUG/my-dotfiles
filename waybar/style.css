@@ -1,0 +1,55 @@
+* {
+    border: none;
+    border-radius: 0;
+    font-family: Noto Sans Mono;
+    font-size: 13px;
+    min-height: 0;
+}
+
+window#waybar {
+    background: #000000;
+    color: white;
+    border: 1px solid white;
+}
+
+
+tooltip {
+  background: rgba(43, 48, 59, 0.5);
+  border: 0px solid rgba(100, 114, 125, 0.5);
+}
+tooltip label {
+  color: white;
+}
+
+#workspaces button {
+    padding: 0px;
+    background: gray;
+    color: black;
+    border: 1px solid white;
+}
+
+#workspaces button.focused {
+    background: gray;
+    border-bottom: 4px solid white;
+}
+
+#mode, #clock, #battery {
+    padding: 0px;
+}
+
+#mode {
+    background: #64727D;
+    border-bottom: 0px solid white;
+}
+#clock {
+    background-color: gray;
+    border: 1px solid white;
+    color: black;
+}
+@keyframes blink {
+    to {
+        background-color: #ffffff;
+        color: black;
+    }
+}
+
