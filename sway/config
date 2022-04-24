@@ -29,16 +29,23 @@ bindsym $mod+Shift+q reload
 bindsym $mod+Shift+Escape exec swaymsg exit
 bindsym $mod+t floating toggle
 bindsym $mod+Shift+T sticky toggle
+
 # Focus Keys
 bindsym $mod+Left focus left
 bindsym $mod+Down focus down
 bindsym $mod+Up focus up
 bindsym $mod+Right focus right
+
 # Move Keys
 bindsym $mod+Shift+Left move left
 bindsym $mod+Shift+Down move down
 bindsym $mod+Shift+Up move up
 bindsym $mod+Shift+Right move right
+
+# split container
+bindsym $mod+shift+s splith
+bindsym $mod+control+s splitv
+
 # Switch to workspace
 bindsym $mod+1 workspace number 1
 bindsym $mod+2 workspace number 2
@@ -52,6 +59,7 @@ bindsym $mod+9 workspace number 9
 bindsym $mod+0 workspace number 10
 bindsym $mod+Control+Right workspace next
 bindsym $mod+Control+Left workspace prev
+
 # Move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace number 1
 bindsym $mod+Shift+2 move container to workspace number 2
@@ -67,13 +75,16 @@ bindsym $mod+Shift+0 move container to workspace number 10
 # Mouse
 floating_modifier $mod normal
 focus_follows_mouse no
+
 # Media Keys
 bindsym XF86AudioRaiseVolume exec amixer -q set Master 5%+
 bindsym XF86AudioLowerVolume exec amixer -q set Master 5%-
 bindsym XF86AudioMute exec amixer -q set Master toggle
+
 # Light Keys
 bindsym $mod+Shift+KP_Subtract exec brightnessctl s 1%-
 bindsym $mod+Shift+KP_Add exec brightnessctl s 1%+
+
 # Window config
 default_border pixel 1
 default_floating_border pixel 1
@@ -86,5 +97,6 @@ bindsym $mod+minus scratchpad show
 # Criteria
 for_window [app_id="mpv"] floating enable
 for_window [app_id="imv"] floating enable
+
 # Bar Config
 bar swaybar_command waybar
