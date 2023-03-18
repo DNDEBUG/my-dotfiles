@@ -10,7 +10,7 @@
 [GIMP](www.gimp.org) **Wayland ❌**  
 [ImageMagick](https://imagemagick.org/)  
 ### Video Editing  
-[Blender](www.blender.org) **Wayland ❌**  
+[Blender](www.blender.org) **Wayland ✔**  
 [FFMPEG](https://ffmpeg.org/)  
 
 ## Media Player
